@@ -31,7 +31,7 @@
 ## <span style="color:#00ffff">📊 Stats</span>
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OmkarTalekar06&theme=tokyonight&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=OmkarTalekar06&theme=tokyonight&show_icons=true">
 </p>
 
 <p align="center">
