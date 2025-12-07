@@ -19,11 +19,11 @@
 
 ## <span style="color:#00ffff">⚡ Skills</span>
 <p>
-<img src="https://img.shields.io/badge/HTML-ff6600?style=for-the-badge&logo=html5">
-<img src="https://img.shields.io/badge/CSS-0066ff?style=for-the-badge&logo=css3">
-<img src="https://img.shields.io/badge/Javascript-ffff00?style=for-the-badge&logo=javascript">
-<img src="https://img.shields.io/badge/C++-0033cc?style=for-the-badge&logo=cplusplus">
-<img src="https://img.shields.io/badge/Python-33cc33?style=for-the-badge&logo=python">
+- WEB DEV
+- PROGRAMMING
+- DATA STRUCTURES
+- ALGORITHMS
+- CLOUD PROGRAMMING
 </p>
 
 ---
@@ -56,5 +56,5 @@
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YourUserName&color=00ffff">
+<img src="https://komarev.com/ghpvc/?username=OmkarTalekar06&color=00ffff">
 </p>
