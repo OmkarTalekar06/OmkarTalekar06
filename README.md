@@ -30,17 +30,17 @@
 
 ## Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUserName&theme=dark&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmkarTalekar06&theme=dark&show_icons=true">
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUserName&theme=dark">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarTalekar06&theme=dark">
 </p>
 
 ---
 
 ## Social Links
 <p>
-  <a href="https://github.com/YourUserName">
+  <a href="https://github.com/OmkarTalekar06">
     <img src="https://img.icons8.com/fluency/48/github.png"/>
   </a>
 
@@ -56,5 +56,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUserName&color=00ffff">
+  <img src="https://komarev.com/ghpvc/?username=OmkarTalekar06&color=00ffff">
 </p>
