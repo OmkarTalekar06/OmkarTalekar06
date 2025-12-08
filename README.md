@@ -30,7 +30,7 @@
 ## <span style="color:#00ffff">📊 Stats</span>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarTalekar06&theme=tokyonight">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarTalekar06&theme=tokyonight&v=1">
 </p>
 
 <p align="center">
