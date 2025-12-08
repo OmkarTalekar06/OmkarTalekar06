@@ -35,7 +35,7 @@
 
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/OmkarTalekar06/OmkarTalekar06/assets/download.svg">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarTalekar06&theme=tokyonight">
 </p>
 
 ---
