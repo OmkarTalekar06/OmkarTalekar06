@@ -30,7 +30,7 @@
 ## <span style="color:#00ffff">📊 Stats</span>
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/OmkarTalekar06/OmkarTalekar06/assets/download.svg">
+   <img src="https://raw.githubusercontent.com/OmkarTalekar06/OmkarTalekar06/main/assets/download.svg">
 </p>
 
 
