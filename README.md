@@ -30,8 +30,9 @@
 ## <span style="color:#00ffff">📊 Stats</span>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=OmkarTalekar06&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=OmkarTalekar06&theme=tokyonight">
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OmkarTalekar06&theme=tokyonight" />
