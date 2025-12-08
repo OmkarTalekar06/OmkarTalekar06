@@ -47,7 +47,7 @@
 <a href="https://linkedin.com">
 <img src="https://img.icons8.com/color/48/linkedin.png"/>
 </a>
-<a href="https://instagram.com/omkar-talekar06">
+<a href="https://www.instagram.com/omkar_talekar06?igsh=ZXFwMHloZWJtcjkz">
 <img src="https://img.icons8.com/fluency/48/instagram-new.png"/>
 </a>
 </p>
