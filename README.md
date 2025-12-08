@@ -30,12 +30,12 @@
 ## <span style="color:#00ffff">📊 Stats</span>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=OmkarTalekar06&theme=tokyonight">
+   <img src="https://raw.githubusercontent.com/OmkarTalekar06/OmkarTalekar06/assets/streak.svg">
 </p>
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OmkarTalekar06/OmkarTalekar06/assets/streak.svg">
+    <img src="https://raw.githubusercontent.com/OmkarTalekar06/OmkarTalekar06/assets/streak.svg">
 </p>
 
 ---
