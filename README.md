@@ -35,7 +35,7 @@
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarTalekar06&theme=tokyonight">
+     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OmkarTalekar06&theme=tokyonight" />
 </p>
 
 ---
