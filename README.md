@@ -30,7 +30,7 @@
 ## <span style="color:#00ffff">📊 Stats</span>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmkarTalekar06&theme=tokyo-night" />
+  <img src="https://streak-stats.demolab.com?user=OmkarTalekar06&theme=tokyonight" />
 </p>
 
 
