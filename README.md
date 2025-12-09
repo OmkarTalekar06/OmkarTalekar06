@@ -30,7 +30,7 @@
 ## <span style="color:#00ffff">📊 Stats</span>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=OmkarTalekar06&theme=tokyonight" />
+  <img src="https://img.shields.io/github/commit-activity/y/OmkarTalekar06?color=00ffff" />
 </p>
 
 
