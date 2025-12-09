@@ -30,8 +30,9 @@
 ## <span style="color:#00ffff">📊 Stats</span>
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/OmkarTalekar06/OmkarTalekar06/main/assets/download.svg">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmkarTalekar06&theme=tokyo-night" />
 </p>
+
 
 
 <p align="center">
