@@ -30,7 +30,7 @@
 ## <span style="color:#00ffff">📊 Stats</span>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OmkarTalekar06&style=flat&color=00ffff" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=OmkarTalekar06&theme=tokyonight" />
 </p>
 
 
