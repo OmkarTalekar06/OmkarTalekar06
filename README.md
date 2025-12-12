@@ -46,7 +46,7 @@
 <a href="https://github.com/OmkarTalekar06">
 <img src="https://img.icons8.com/fluency/48/github.png"/>
 </a>
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/posts/omkar-talekar-ab3bb3341_how-red-hat-changed-open-source-enterprise-activity-7305424863928721408-OHs0?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFXI6WcB5iiI-eOD70_ogyvySWNKdmMWNxg&utm_campaign=copy_link">
 <img src="https://img.icons8.com/color/48/linkedin.png"/>
 </a>
 <a href="https://www.instagram.com/omkar_talekar06">
