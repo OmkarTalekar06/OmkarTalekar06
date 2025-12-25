@@ -52,6 +52,10 @@
 <a href="https://www.instagram.com/omkar_talekar06">
 <img src="https://img.icons8.com/fluency/48/instagram-new.png"/>
 </a>
+<a href="https://gitlab.com/sanskrutitalekar1982" target="_blank">
+  <img src="https://img.icons8.com/color/48/gitlab.png"/>
+</a>
+
 </p>
 
 ---
